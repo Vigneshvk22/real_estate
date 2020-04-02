@@ -13,7 +13,7 @@ This project is designed to satisfy the following requirements :
 * Generate aggregate informations such as address of the asset,year of construction,total rent,vacany,walt etc..for the assets.
 
 ## Technologies
-Project is creaeted with:
+Project is created with:
 * Java 
 * Spring Boot
 * PostgreSQL 
